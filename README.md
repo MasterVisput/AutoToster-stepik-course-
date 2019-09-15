@@ -1,0 +1,2 @@
+# AutoToster-stepik-course-
+AutoTests 
